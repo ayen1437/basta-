@@ -1,0 +1,36 @@
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\SLEEP LOG.exe
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\SLEEP LOG.deps.json
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\SLEEP LOG.runtimeconfig.json
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\SLEEP LOG.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\SLEEP LOG.pdb
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.csproj.AssemblyReference.cache
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP_LOG.Form1.resources
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.csproj.GenerateResource.cache
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.AssemblyInfoInputs.cache
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.AssemblyInfo.cs
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.csproj.CoreCompileInputs.cache
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.sourcelink.json
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.csproj.Up2Date
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\refint\SLEEP LOG.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.pdb
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP LOG.genruntimeconfig.cache
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\ref\SLEEP LOG.dll
+C:\Users\BioStaR\source\repos\SLEEP LOG\SLEEP LOG\obj\Debug\net8.0-windows\SLEEP_LOG.Properties.Resources.resources
